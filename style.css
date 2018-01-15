@@ -1,0 +1,67 @@
+.block1 { 
+width: 11%; 
+display: inline-block; 
+} 
+.block2 { 
+display: inline-block; 
+width: 72%; 
+} 
+.block3 { 
+background: green; 
+display: inline-block; 
+height: 130px; 
+width: 20%; 
+} 
+.block4 { 
+background: orange; 
+display: inline-block; 
+height: 130px; 
+width: 76%; 
+} 
+.block5 { 
+background: green; 
+height: 130px; 
+width: 85%; 
+} 
+.block6 { 
+background: blue; 
+height: 130px; 
+width: 85%; 
+} 
+.block7 { 
+background: pink; 
+height: 130px; 
+width: 97%; 
+} 
+.block8 { 
+background: green; 
+display: inline-block; 
+height: 130px; 
+width: 47%; 
+} 
+.block9 { 
+background: blue; 
+display: inline-block; 
+height: 130px; 
+width: 48%; 
+} 
+.block10 { 
+background: pink; 
+display: inline-block; 
+height: 290px; 
+width: 10%; 
+} 
+.block11 { 
+background: orange; 
+height: 130px; 
+width: 98%; 
+} 
+.block12 { 
+background: blue; 
+height: 130px; 
+width: 98%; 
+} 
+div { 
+border: 1px solid black; 
+margin: 10px; 
+}
